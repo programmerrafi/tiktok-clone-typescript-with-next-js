@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    domains: ["portfolio-mdrafi.vercel.app"],
+    domains: ["portfolio-mdrafi.vercel.app", "lh3.googleusercontent.com"],
   },
 };
 
