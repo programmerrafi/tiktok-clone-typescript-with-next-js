@@ -74,7 +74,6 @@ const Detail = ({ postDetails }: IProps) => {
       }
     }
   };
-  console.log("post", post);
 
   return (
     <>
