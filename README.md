@@ -1,6 +1,6 @@
 # "TikTok social Media
 
-!["TikTok social Media](cover.png?raw=true "TikTok social Media")
+!["TikTok social Media](tiktok.jpg?raw=true "TikTok social Media")
 
 ### [Live Demo](https://tiktok-typescript-with-next-js.vercel.app)
 
