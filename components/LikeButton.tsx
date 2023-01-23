@@ -30,7 +30,6 @@ const LikeButton: NextPage<IProps> = ({
       setAlreadyLiked(false);
     }
   }, [filterLikes, likes]);
-  console.log("hello");
 
   return (
     <div className={`${flex} gap-6`}>
